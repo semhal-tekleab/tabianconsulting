@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156901150246",
+    "firebase_url": "https://tabianconsulting-2cadc.firebaseio.com",
+    "project_id": "tabianconsulting-2cadc",
+    "storage_bucket": "tabianconsulting-2cadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156901150246:android:5dfe604dd0ccb2d60820e7",
+        "android_client_info": {
+          "package_name": "com.bunatree.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156901150246-fikk99tppa4rutqpmo6vde7uqa48hmb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDW0g1S2mtb10KhUXjoI_PDwKGKlzKwYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156901150246-fikk99tppa4rutqpmo6vde7uqa48hmb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
